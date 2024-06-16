@@ -1,4 +1,4 @@
-FutbolRelaciones
+Futbol Relaciones
 Este proyecto es una aplicación de gestión de equipos de fútbol desarrollada en Java, utilizando Spring Boot y JPA (Jakarta Persistence API). 
 Permite gestionar entidades como equipos, managers, jugadores y juegos, manteniendo las relaciones entre ellos.
 
